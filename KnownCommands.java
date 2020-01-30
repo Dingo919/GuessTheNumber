@@ -32,7 +32,6 @@ public enum KnownCommands {
 	COMMAND,
     CONNECTING,
     CONNECTED,
-    COLOR,
 	NAME,
     EXIT,
     GUESS,
